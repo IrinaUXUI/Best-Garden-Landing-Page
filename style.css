@@ -207,6 +207,7 @@ border: none;
     color: #F8F8F8;
     font-weight: 600;
     margin-left: 10px;
+    cursor: pointer;
 }
 
 input[type=submit]:hover {
